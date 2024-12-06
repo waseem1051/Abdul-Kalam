@@ -1,0 +1,86 @@
+* {
+    font-family: "Trirong", serif;
+
+    background-color: black;
+    color: white;
+}
+
+video {
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    height: 500px;
+    border: solid 1px rgb(15, 15, 15);
+}
+
+img {
+    margin: auto;
+    width: 60%;
+    height: 500px;
+    position: relative;
+    padding: 30px;
+
+}
+
+.img1 {
+    border-radius: 12%;
+
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /* width: 50%; */
+}
+
+.name {
+    text-align: center;
+    font-size: xxx-large;
+    margin: 40px;
+
+}
+
+.year {
+    text-align: center;
+    font-size: xx-large;
+
+}
+
+footer {
+    text-align: center;
+    font-size: x-large;
+}
+
+.bio-con {
+    align-content: center;
+}
+
+h1 {
+    text-align: center;
+}
+
+.bio {
+
+    position: relative;
+    margin: 0, auto;
+    width: 70%;
+    left: 15%;
+    text-align: left;
+
+}
+
+section {
+    line-height-step: 2px;
+    font-size: larger;
+}
+
+li {
+    margin-bottom: 5px;
+}
+
+footer {
+    margin-bottom: 30Px;
+}
+
+.anchor {
+    text-decoration: double;
+    color: rebeccapurple;
+}
